@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mohammad Delowar Hossain 👋
 
-<!--
-**delowarhossaincse63/delowarhossaincse63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Engineer | Machine Learning & Data Science | Python Developer | Software & Automation Enthusiast
 
-Here are some ideas to get you started:
+I'm currently looking for Job/Internship opportunities as an AI/ML Engineer. I build practical AI projects — from computer vision and NLP to LLM-based agents and full-stack AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work With
+
+- Languages: Python, JavaScript
+- ML/AI: TensorFlow/PyTorch, YOLOv8, BERT, Scikit-learn
+- LLM & Agents: LangChain, n8n, Anthropic Claude API
+- Backend FastAPI, Docker
+- Frontend: React, Vite
+
+## 🚀 Featured Projects
+
+- [taka-detector](https://github.com/delowarhossaincse63/taka-detector) — REST API for Bangladeshi Taka banknote detection using YOLOv8, built with FastAPI and Docker.
+- [imdb_sentiment_analysis](https://github.com/delowarhossaincse63/imdb_sentiment_analysis.ipynb) — Sentiment analysis on 50,000 IMDB reviews comparing TF-IDF, Word2Vec, and BERT.
+- [linkedin-post-generator](https://github.com/delowarhossaincse63/linkedin-post-generator) — AI agent built with LangChain that generates LinkedIn posts using conditional routing.
+- [bd_multi_tool_ai_agent](https://github.com/delowarhossaincse63/bd_multi_tool_ai_agent) — Multi-tool AI agent for Bangladesh using HuggingFace datasets and LangChain.
+- [moodai-capstone](https://github.com/delowarhossaincse63/moodai-capstone) — Privacy-first mood tracking and AI reflection platform built with React, Vite, and the Anthropic Claude API.
+
+## 📫 Contact
+
+- Email: delowarhossain.cse.63@gmail.com
+- LinkedIn: [mohammaddelowarhossain63](https://www.linkedin.com/in/mohammaddelowarhossain63/)
