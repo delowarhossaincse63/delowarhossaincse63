@@ -9,8 +9,9 @@ I'm currently looking for Job/Internship opportunities as an AI/ML Engineer. I b
 - Languages: Python, JavaScript
 - ML/AI: TensorFlow/PyTorch, YOLOv8, BERT, Scikit-learn
 - LLM & Agents: LangChain, n8n, Anthropic Claude API
-- Backend FastAPI, Docker
+- Backend: FastAPI, Docker
 - Frontend: React, Vite
+- Deployment: Vercel, Render
 
 ## 🚀 Featured Projects
 
