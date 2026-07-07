@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Delowar Hossain 👋
 
-Aspiring AI Engineer | Machine Learning & Data Science | Python Developer | Software & Automation Enthusiast
+AI Engineer | LLM & AI Agent Developer | LangChain • CrewAI • FastAPI • RAG • Python
 
 I'm currently looking for Job/Internship opportunities as an AI/ML Engineer. I build practical AI projects — from computer vision and NLP to LLM-based agents and full-stack AI applications.
 
